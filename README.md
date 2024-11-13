@@ -54,6 +54,24 @@ Sales Executive: 326 employees (highest representation).
 Human Resources: 52 employees (lowest representation).
 Other key roles include Research Scientist (292), Laboratory Technician (259), and Manager (131).
 
+ for the KPIs to work we do the following changes in  the Table view section
+ 
+ Made the following measures
+ -Total Employee
+ -total male
+ -total female
+ -Total % of male and female
+
+
+Made the following columns
+- Male
+-Female
+-job review
+-bottom/best performer
+
+also transformed the data by replacing 'yes' with 'left' and 'no with 'available' in the attrition column
+also did the same for 'overtime' column replaced 'yes' with 'overtime' and 'no' with 'no overtime'
+
 
 
 
